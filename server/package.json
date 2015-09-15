@@ -1,0 +1,15 @@
+{
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js",
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"async": "",
+		"body-parser": "",
+		"express": "",
+		"express-session": "",
+		"pg": "",
+		"socket.io": ""
+	}
+}

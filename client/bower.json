@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"angular": "",
+		"angular-route": "",
+		"angular-resource": "",
+		"angular-animate": "",
+		"angular-touch": "",
+		"jquery": "",
+		"jquery-mousewheel": "",
+		"sweetalert2": "",
+		"normalize.css": ""
+	}
+}

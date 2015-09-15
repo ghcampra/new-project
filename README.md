@@ -10,6 +10,8 @@ This module initialize a new node.js project. It have the next struct:
         - Menus: Html menus
         - Page: Html Pages
       - pics
+
+
   server:
     - That folder contains all elements back-end. It have this struct:
       - apps: Menus back-end function

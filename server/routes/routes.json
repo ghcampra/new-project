@@ -1,0 +1,13 @@
+{
+	"assets": 
+	[
+		{"route": "/menu_load"},
+		{"route": "/logout"},
+		{"route": "/Validate"}
+	],
+	"login":
+	[
+		{"route":"/login"},
+		{"route":"/get"}
+	]
+} 
